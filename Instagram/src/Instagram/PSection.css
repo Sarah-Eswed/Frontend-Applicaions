@@ -1,0 +1,54 @@
+
+.container{
+width: 53vw;
+margin-left: 10rem;
+margin-top: 7rem;
+margin-bottom: 7rem;
+}
+
+.Images {
+display: flex;
+margin-bottom: 2rem;
+}
+
+.first{
+margin-top: 1.5rem;
+height: 22rem;;
+width: 22rem;
+}
+
+.second{
+  margin-top: 1.5rem;
+  height: 22rem;;
+  width: 22rem;
+  margin-left: 2rem;
+}
+
+.Group{
+display: flex;
+margin-bottom: 2rem;
+}
+
+.multi{
+margin-left: 19rem;
+margin-top: -23rem;
+}
+
+.multi2{
+  margin-left: 42rem;
+  margin-top: -1.5rem;
+}
+
+.multi3{
+  margin-left: 66rem;
+  margin-top: -1.5rem;
+}
+
+
+.Video {
+  display: flex;
+  margin-bottom: 2rem;
+  margin-top: 22rem;
+  }
+
+ 

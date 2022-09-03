@@ -1,0 +1,53 @@
+
+
+.profilePicture{
+border-radius: 50%;
+width: 14rem;
+margin-left: 10rem;
+vertical-align: top;
+
+}
+
+.Name{
+  display: inline;
+  padding-left: 15rem;
+  font-weight: 500;
+  vertical-align: middle;
+  font-size: x-large;
+  font-weight: 300;
+}
+
+.Edit{
+margin-left: 2rem;
+padding: 0.5rem;
+outline: none;
+background-color: #FAFAFA;
+border: #EBEBEB solid 1px ;
+font-weight: 600;
+cursor: pointer;
+}
+
+
+.Settings{
+margin-left: 1rem;
+cursor: pointer;
+border: none;
+background-color: #FAFAFA;
+}
+
+.info{
+display: inline;
+padding-right: 3rem;
+}
+
+.follow{
+padding-left: 39rem;
+margin-top: -10rem;
+}
+
+.Bio{
+  padding-left: 39rem;
+margin-top: 2rem;
+}
+
+

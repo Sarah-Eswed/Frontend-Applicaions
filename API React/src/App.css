@@ -1,0 +1,14 @@
+.Person{
+text-align: center;
+margin-top: 7rem;
+border-radius: 50%;
+border: gray solid 2px;
+width: 16rem;
+height: 16rem;
+margin-left: 35rem;
+}
+
+body{
+background-color: bisque;
+
+}

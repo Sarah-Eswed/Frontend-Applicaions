@@ -1,0 +1,21 @@
+nav{
+display: flex;
+justify-content: space-around;
+align-items: center;
+min-height: 10vh;
+background-color: #bbbfca;
+color: white;
+}
+
+.nav-links{
+width: 40%;
+display: flex;
+list-style: none;
+justify-content: space-around;
+align-items: center;
+}
+
+.Logo{
+width: 7rem;
+height: 7rem;
+}

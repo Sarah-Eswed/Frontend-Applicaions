@@ -1,0 +1,22 @@
+.button{
+  border: none;
+  cursor: pointer;
+  background-color: #FFFFFF;
+  outline: none;
+  margin-left: 40rem;
+}
+
+
+.button2{
+  border: none;
+  cursor: pointer;
+  background-color: #FFFFFF;
+  outline: none;
+}
+
+.like{
+margin-left: 0.5rem;
+font-weight: 500;
+font-size: medium;
+margin-top: 0.5rem;
+}

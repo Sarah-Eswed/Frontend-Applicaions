@@ -1,0 +1,37 @@
+
+.Section{
+margin-top: 0.5rem;
+
+}
+
+.User{
+font-weight: 500;
+font-size: medium;
+}
+
+.Comment{
+display: inline;
+font-size: medium;
+margin-left: 0.5rem;
+}
+
+.hours{
+display: block;
+margin-top: 0.5rem;
+margin-left: 0.5rem;
+font-weight: 100;
+font-size: small;
+}
+
+.addComment{
+display: block;
+margin-left: -1rem;
+margin-top: 1rem;
+width: 53vw;
+height: 3rem;
+padding-left: 1.5rem;
+background-color: #FAFAFA;
+border: #E4E4E4 1px solid;
+font-size: medium;
+outline: none;
+}

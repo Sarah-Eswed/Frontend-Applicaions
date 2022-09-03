@@ -1,0 +1,8 @@
+.gallery{
+  display: flex;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  flex-wrap: wrap;
+  padding-left: 2rem;
+}
+

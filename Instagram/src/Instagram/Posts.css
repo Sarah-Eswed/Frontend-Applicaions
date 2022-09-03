@@ -1,0 +1,38 @@
+.pp{
+border-radius: 50%;
+width: 3rem;
+vertical-align: middle;
+}
+
+.User{
+display: inline;
+padding-left: 0.5rem;
+font-weight: 500;
+vertical-align: middle;
+}
+
+.button{
+  border: none;
+  cursor: pointer;
+  background-color: #FFFFFF;
+  outline: none;
+  margin-left: 40vw;
+}
+
+.fas{
+color: #414141;
+font-size: medium;
+float:right;
+}
+
+hr{
+margin-top: 0.5rem;
+border: #EBEBEB solid 1px ;
+}
+
+.Post{
+margin-top: 0.5rem;
+width: 53vw;
+height:85vh;
+}
+

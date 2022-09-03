@@ -1,0 +1,18 @@
+.Story{
+  border-radius: 50%;
+  width: 4rem;
+  margin: 0.3rem;
+}
+
+.Unread{
+border: #D53085 3px solid;
+}
+
+.Read{
+border: #E3E3E3 3px solid;
+}
+
+.Names{
+margin-left: 1.5rem;
+font-size: small;
+}
